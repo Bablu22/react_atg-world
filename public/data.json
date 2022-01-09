@@ -1,0 +1,39 @@
+[
+    {
+        "ceterogy": "Article",
+        "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+        "desc": "I have worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "img": "https://i.ibb.co/z4KVdTk/Rectangle-5.png",
+        "ctg_img": "https://i.ibb.co/ZL2FzWY/document.png",
+        "user_img": "https://i.ibb.co/DC5VCG2/asset-2.webp",
+        "user_name": "Sarthak Kamra"
+    },
+    {
+        "ceterogy": "Education",
+        "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+        "desc": "I have worked in UX for the better part of a decade. From now on, I plan to rei…",
+        "img": "https://i.ibb.co/QQBdBK4/Rectangle-5-1.png",
+        "ctg_img": "https://i.ibb.co/5WPLKjR/education.png",
+        "user_img": "https://i.ibb.co/FBYD569/asset-3.webp",
+        "user_name": "Sarah West"
+    },
+    {
+        "ceterogy": "Meetup",
+        "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+        "date": "Fri,12 oct,2018",
+        "location": "Ahmedabad, India",
+        "img": "https://i.ibb.co/mDNMD23/Rectangle-5-2.png",
+        "ctg_img": "https://i.ibb.co/PtzQw18/reunion.png",
+        "user_img": "https://i.ibb.co/s2W9D9h/basketball.png",
+        "user_name": "Ronal Jones"
+    },
+    {
+        "ceterogy": "Jobs",
+        "title": "Software Developer",
+        "company": "Innovaccer Analytics Private Ltd.",
+        "location": "Noida, India",
+        "ctg_img": "https://i.ibb.co/ftZgVjz/briefcase.png",
+        "user_img": "https://i.ibb.co/61CGzJq/xperson-3-jpg-pagespeed-ic-Cln-ja-M1j-K.webp",
+        "user_name": "Joseph Gray"
+    }
+]

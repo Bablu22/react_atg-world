@@ -1,0 +1,7 @@
+.form-input input{
+    background-color: #F7F8FA;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #D9D9DB;
+    outline: none;
+}
