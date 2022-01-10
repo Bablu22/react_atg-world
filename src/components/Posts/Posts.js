@@ -13,7 +13,7 @@ const Posts = () => {
     }, [])
 
     return (
-        <div className='container mx-auto mt-10 p-3'>
+        <div className='container mx-auto mt-10 p-2'>
             <div className='hidden lg:flex flex justify-between items-center ml-0 pl-0'>
                 <div className='filter-btn'>
                     <a href="/">All Posts(32)</a>
@@ -28,7 +28,7 @@ const Posts = () => {
                 </div>
 
             </div>
-            <div className='flex justify-between lg:hidden '>
+            <div className='flex justify-between lg:hidden p-2'>
                 <h6>Posts(368)</h6>
                 <select className='border p-1 bg-gray-200 rounded'>
                     <option value="" disabled selected>Filter: All</option>
@@ -49,7 +49,7 @@ const Posts = () => {
 
                 </div>
                 <div className=''>
-                    <div className='flex justify-between items-center w-full'>
+                    <div className='flex justify-between items-center w-full p-3'>
                         <h6> <i className="fas fa-map-marker-alt"></i> Noida, India</h6>
                         <h6 className=''> <i className="fas fa-pen"></i></h6>
                     </div>
