@@ -11,6 +11,7 @@
     color: white;
     position: absolute;
     bottom: 20%;
+    left: 10%;
 }
 @media screen and (max-width: 667px){
     .banner{
@@ -18,9 +19,11 @@
     }
     .banner-content{
         padding-left: 10px;
+        left: 2%;
     }
     .banner-content h1{
         font-size: 22px;
     }
  
   }
+

@@ -12,8 +12,10 @@ const Banner = () => {
                     </div>
                 </div>
                 <div className="banner-content">
-                    <h1 className='text-5xl font-medium mb-2'>Computer Engineering</h1>
-                    <p>142,765 Computer Engineers follow this</p>
+                    <div>
+                        <h1 className='text-5xl font-medium mb-2'>Computer Engineering</h1>
+                        <p>142,765 Computer Engineers follow this</p>
+                    </div>
                 </div>
             </div>
         </div>
