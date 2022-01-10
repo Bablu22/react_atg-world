@@ -14,7 +14,7 @@ const Posts = () => {
 
     return (
         <div className='container mx-auto mt-10 p-3'>
-            <div className='hidden lg:flex flex justify-around items-center ml-0 pl-0'>
+            <div className='hidden lg:flex flex justify-between items-center ml-0 pl-0'>
                 <div className='filter-btn'>
                     <a href="/">All Posts(32)</a>
                     <a href="/">Article</a>
@@ -38,7 +38,7 @@ const Posts = () => {
                 </select>
             </div>
             <hr className='mt-3' />
-            <div className='container mx-auto lg:flex justify-around  w-full my-8'>
+            <div className='container mx-auto lg:flex justify-between  w-full my-8'>
                 <div>
 
 
